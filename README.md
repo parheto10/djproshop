@@ -4,4 +4,4 @@
 2 - use python manage.py makemigration
 3 - use python manage.py migrate 
 4 - use python manage.py createsuperuser
-2 - use python manage.py runserver 
+5 - use python manage.py runserver 
